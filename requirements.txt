@@ -1,11 +1,10 @@
 fastapi
 uvicorn
-sentence-transformers
-faiss-cpu
-numpy
-pandas
-requests
-beautifulsoup4
 groq
 python-dotenv
 scikit-learn
+numpy
+requests
+beautifulsoup4
+joblib
+pydantic
